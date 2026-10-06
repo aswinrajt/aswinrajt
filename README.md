@@ -18,13 +18,13 @@ I build modern, scalable web applications with a focus on **clean UI, robust bac
 ```
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://aswin-portfolioo.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/aswinrajt">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:aswinraj050@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -129,8 +129,8 @@ A cyberpunk-inspired developer dashboard that documents abandoned projects, thei
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aswinrajt&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinrajt&layout=compact&theme=transparent&hide_border=true" height="170" />
 </p>
 
 <p align="center">
